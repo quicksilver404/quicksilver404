@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/quicksilver404/quicksilver404/main/header.svg" width="100%" alt="Terminal Boot">
 
-<!--
-**quicksilver404/quicksilver404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/quicksilver404/quicksilver404/main/about.svg" width="100%" alt="Terminal Cat">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://raw.githubusercontent.com/quicksilver404/quicksilver404/main/skills.svg" width="100%" alt="Terminal Skills">
+
+<br/>
+
+<img src="https://ryme.md/api/render/terminal-github-stats?u=quicksilver404&bg=0a0a0b&fg=e7e7ea&accent=4ade80&muted=5a5a64&dur=15" width="100%" alt="Terminal GitHub">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/quicksilver404/quicksilver404/main/footer.svg" width="100%" alt="Terminal Logout">
